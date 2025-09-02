@@ -1,3 +1,3 @@
 fastapi
-yt-dlp
 uvicorn
+yt-dlp
